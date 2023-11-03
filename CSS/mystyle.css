@@ -1,0 +1,16 @@
+ header {
+    color:white;
+ }
+
+ p {
+    text-align: left;
+    color:white;
+ }
+ 
+ figcaption {
+    color:white;
+ }
+
+ .activity-row {
+    padding: 10px;
+}
